@@ -1,6 +1,6 @@
 UX
 
-No graphical design
+No graphical design considerations
 
 
 For browser list see:
