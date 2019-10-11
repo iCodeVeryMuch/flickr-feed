@@ -1,3 +1,8 @@
+UX
+
+No graphical design
+
+
 For browser list see:
 
 https://browserl.ist/?q=%3E+0.2%25%2C+not+dead%2C+not+op_mini+all
