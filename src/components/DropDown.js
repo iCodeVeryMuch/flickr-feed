@@ -56,7 +56,7 @@ export const DropDown = ({choices}) => {
         setListOpen(!listOpen);
     }
 
-    return (<DdWrapper aria-label="Main Navigation" onClick={toggleList}>
+    return (<DdWrapper aria-label="Tags dropdown" onClick={toggleList}>
         <DdToggle aria-expanded={listOpen ? true:false}>
             <DdSelected>Tags</DdSelected>
             <FontAwesomeIcon style={{  margin: "auto", marginTop: "2px" }} color="red" size="1x"
