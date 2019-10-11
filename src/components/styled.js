@@ -11,31 +11,25 @@ export const FlexCard = styled.div`
     border: 1px solid grey;
     margin: 10px;
     min-width: calc(100% - 62px);
-    max-width: calc(100% - 62px);
 
     ${device.mobile`
         min-width: calc(50% - 62px);
-        max-width: calc(50% - 62px);
     `};
 
     ${device.tablet`
         min-width: calc(33% - 62px);
-        max-width: calc(33% - 62px);
     `};
 
     ${device.laptop`
         min-width: calc(25% - 62px);
-        max-width: calc(25% - 62px);
     `};
 
     ${device.laptopL`
         min-width: calc(20% - 62px);
-        max-width: calc(20% - 62px);
     `};
 
      ${device.desktop`
         min-width: calc(20% - 62px);
-        max-width: calc(20% - 62px);
     `};
 
 `;
