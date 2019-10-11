@@ -7,7 +7,7 @@ import { createGlobalStyle } from "styled-components/macro";
 
 const GlobalStyle = createGlobalStyle`
 body {
-    font-size: calc(8px + 0.5vw);
+    font-size: calc(12px + 0.25vw);
 }
 `;
 
